@@ -1,2 +1,2 @@
 # ESP
-files and wiki supporting development of the Edinburgh Social Panel (ESP)
+These are computing files and wiki documentation for the development of the Edinburgh Social Panel (ESP)
